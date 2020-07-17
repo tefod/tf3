@@ -1,7 +1,7 @@
 # Site settings
 title: Tefod
 email: "merhaba@tefod.org"
-description: "Photo Journal"
+description: "Tekirdağ Fotoğraf Derneği"
 url: "https://tefod.github.io/"
 baseurl: "/tf3"
 facebook_username: "groups/356400741056925/"
@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALERİ: "https://tefod.github.io/tf3/gallery/"  
-  - JOURNAL: "https://tefod.github.io/tf3/journal/"
+  - BLOG: "https://tefod.github.io/tf3/blog/"
 #  - ABOUT: "https://tefod.github.io/tf3//about/"
   - HAKKIMIZDA : "https://tefod.github.io/tf3/hakkimizda/"
 
@@ -53,10 +53,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/blog/page:num/"
+permalink: "/blog/:title/"
+categories_path: "/blog/category/"
+tags_path: "/blog/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
