@@ -4,13 +4,13 @@ email: ""
 description: "Photo Journal"
 url: "https://tefod.github.io/"
 baseurl: "/tf3"
-facebook_username: ""
+facebook_username: "groups/356400741056925/"
 twitter_username: ""
 instagram_username: "tefod59"
-github_username:  ""
-deviantart_username: ""
+# github_username:  ""
+# deviantart_username: ""
 flickr_username: ""
-discus_shortname: ""
+# discus_shortname: ""
 share: false
 
 # Owner/author information
