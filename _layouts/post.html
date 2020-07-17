@@ -126,7 +126,7 @@ layout: default
 
   <div class="tag-list">
     {% for tag in tags %}
-<a href="{{ site.baseurl }}/journal/tag/{{ tag | slugify }}/" style="text-decoration:none;"> {{ tag }} </a> &nbsp;&nbsp;
+<a href="{{ site.baseurl }}/blog/tag/{{ tag | slugify }}/" style="text-decoration:none;"> {{ tag }} </a> &nbsp;&nbsp;
 {% endfor %}
   </div>
 
@@ -168,7 +168,7 @@ layout: default
 
  <div class="category-list">
    {% for category in categories %}
-<a href="{{ site.baseurl }}/journal/category/{{ category | slugify }}/"> {{ category }} </a> &nbsp;&nbsp;
+<a href="{{ site.baseurl }}/blog/category/{{ category | slugify }}/"> {{ category }} </a> &nbsp;&nbsp;
 {% endfor %}
   </div>
 
