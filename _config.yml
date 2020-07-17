@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://tefod.github.io/tf3//photorama/gallery/"  
+  - GALLERY: "https://tefod.github.io/tf3/photorama/gallery/"  
   - JOURNAL: "https://tefod.github.io/tf3/photorama/journal/"
   - ABOUT: "https://tefod.github.io/tf3/photorama/about/"
 
