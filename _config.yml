@@ -1,17 +1,17 @@
 # Site settings
-title: PHOTORAMA
+title: Tefod
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
+url: "https://tefod.github.io/tf3/"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "tefod59"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
-share: true
+share: false
 
 # Owner/author information
 owner:
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://tefod.github.io/tf3//photorama/gallery/"  
+  - JOURNAL: "https://tefod.github.io/tf3/photorama/journal/"
+  - ABOUT: "https://tefod.github.io/tf3/photorama/about/"
 
 # All translation keys
 translations:
