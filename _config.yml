@@ -1,5 +1,6 @@
 # Site settings
 languages: tr
+lang: tr
 title: Tefod
 email: "merhaba@tefod.org"
 description: "Tekirdağ Fotoğraf Derneği"
