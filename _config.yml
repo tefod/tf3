@@ -33,9 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://tefod.github.io/tf3/gallery/"  
+  - GALERİ: "https://tefod.github.io/tf3/gallery/"  
   - JOURNAL: "https://tefod.github.io/tf3/journal/"
   - ABOUT: "https://tefod.github.io/tf3//about/"
+  - HAKKIMIZDA : "https://tefod.github.io/tf3/hakkimizda/"
 
 # All translation keys
 translations:
