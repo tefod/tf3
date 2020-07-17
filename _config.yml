@@ -1,6 +1,6 @@
 # Site settings
 title: Tefod
-# email: ""
+email: "merhaba@tefod.org"
 description: "Photo Journal"
 url: "https://tefod.github.io/"
 baseurl: "/tf3"
